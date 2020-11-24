@@ -5,7 +5,7 @@ event_url: https://example.org
 
 location: Source Themes HQ
 address:
-  street: 450 Serra Mall
+  street: Ho Chi Minh
   city: Stanford
   region: CA
   postcode: '94305'
