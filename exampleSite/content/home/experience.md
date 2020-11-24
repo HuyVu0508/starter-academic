@@ -36,7 +36,7 @@ experience:
     * Deploying
   location: California
   title: CEO
-- company: University X
+- company: University Stanford
   company_url: ""
   date_end: "2016-12-31"
   date_start: "2016-01-01"
