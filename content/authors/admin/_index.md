@@ -69,7 +69,3 @@ user_groups:
 ---
 
 Huy Vu is a PhD candidate in Computer Science at Stony Brook University. Having a great interest in Machine Learning, especially Natural Language Processing and applying it into Psychology and Social Science. That is one sweet spot between understanding machine and human. Having worked interdisciplinary with other natural and social scientists, I always believe that the more different scientific fields intersect, the more novel and exciting the findings will be. 
-
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
