@@ -19,6 +19,56 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Computer Science Department, Stony Brook University"
+  organization_url = ""
+  title = "Merit Fellowship $5000 2018 – 2019"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Vietnam Institute for Advanced Study in Mathematics"
+  organization_url = ""
+  title = "National Program for the Development of Mathematics 2013 and 2016"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = ""  
+
+[[item]]
+  organization = "Tokyo University of Agriculture and Technology, Japan"
+  organization_url = ""
+  title = "Exchange Program Scholarship 2014 – 2015"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Ho Chi Minh University of Science"
+  organization_url = ""
+  title = "Excellence in Academic Activities 2013"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "KumHo Asiana Vietnam"
+  organization_url = ""
+  title = "KumHo Asiana Scholarship 2012"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = "1st-ranked students in university’s entrance"     
+
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
