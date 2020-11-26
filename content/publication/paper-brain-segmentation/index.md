@@ -18,8 +18,8 @@ publishDate: "2017"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Winter Conference on Applications of Computer Vision 
-publication_short: In *WACV*
+publication: In Winter Conference on Applications of Computer Vision (WACV) 2017
+publication_short: In *WACV 2017*
 
 abstract: Automatic segmentation of major brain tissues from high-resolution magnetic resonance images (MRIs) plays an important role in clinical diagnostics and neuroscience research. In this paper, we present a novel approach to extract brain tissues including gray matter, white matter and cerebrospinal fluid by using Gaussian mixture models (GMMs), Convolution neural networks (CNNs) and Deep neural networks (DNNs). GMMs are applied to classify voxels which have distinct intensity information and are easy to recognize while DNNs and CNNs are treating voxels which are similar in appearance and usually recognized insufficiently by traditional approaches. The empirical results on IBSR 18 dataset show that the proposed method outperforms 13 state-of-the-art algorithms, surpassing all other methods by a significant margin.
 
