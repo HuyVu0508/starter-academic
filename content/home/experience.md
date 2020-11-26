@@ -46,29 +46,50 @@ date_format = "Jan 2006"
   * Built a search engine using BERT-based contextualized embeddings specifically for material science literature research, received highly rated feedback from material scientists. 
 """
 
-
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant Intern"
+  company = "University of Pennsylvania"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Pennsylvania, U.S."
+  date_start = "2019-06-01"
+  date_end = "2019-08-01"
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+
+  * Working with psychologists, exploring the novel idea of applying NLP tools into psychology research, using text embeddings to analyze personality questionnaires.
+  * Proved validity of the proposed hypothesizes, with correlation up to 0.421 (significant in psychology field). Paper accepted at Findings EMNLP of 2020. 
+"""
+
 
 [[experience]]
-  title = "Professor"
-  company = "University Stanford"
+  title = "Research Assistant"
+  company = "Ho Chi Minh City University of Science"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Ho Chi Minh City, Vietnam"
+  date_start = "2016-08-01"
+  date_end = "2017-12-01"
+  description = """
+  Responsibilities include:
+
+  * Proposing novel method segmenting brain images using combined Gaussian Mixture Model and Deep Learning approach.
+  * A jump of 8.6(/100) points to beat state-of-the-art methods and therefore accepted to WACV 2017.
+"""
+
+
+[[experience]]
+  title = "Business Analyst"
+  company = "Omn1Solution (Salesforce's official partner in Vietnam)"
+  company_url = ""
+  location = "Ho Chi Minh City, Vietnam"
+  date_start = "2017-09-01"
+  date_end = "2018-03-01"
+  description = """
+  Responsibilities include:
+
+  * Assisting in analyzing customers’ needs and designing system solution
+  * Implementing and deploying Salesforce Sales Cloud system
+"""
+
+
 
 +++
