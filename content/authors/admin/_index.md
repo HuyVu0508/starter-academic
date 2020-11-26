@@ -23,12 +23,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2023 
+  - course: PhD in Computer Science
+    institution: Stony Brook University
+    year: 2018-2023 
   - course: MSc in Mathematics and Computer Science 
     institution: University of Science Ho Chi Minh City
-    year: 2017
+    year: 2012-2017
 
 
 # Social/Academic Networking
