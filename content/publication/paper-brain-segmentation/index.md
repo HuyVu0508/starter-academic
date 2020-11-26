@@ -5,7 +5,7 @@ authors:
 - admin
 - Huy Quang Ung
 - Binh Thanh Nguyen
-date: ""
+date: "2017"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
