@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-06"
   date_end = "2020-08"
   description = """
+  Responsibilities include:
   * Working on distilling strong, powerful, but heavy transformers-based language model into more compact, fast-runningmodel while still maintaining reasonable performances.
   * Proposed a novel approach to take advantage of large models’ performance (RoBERTa, XLM) to be used in a real time ondevices with small computing capability.
   """
