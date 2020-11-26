@@ -49,11 +49,15 @@ social:
   icon_pack: fab
   link: https://github.com/HuyVu0508
   
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: media/cv.pdf
+- icon: dice-d20  
+  icon_pack: fas
+  link: https://vuthanhhuy94.wixsite.com/creative-playground
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "hvu [at] cs [dot] stonybrook [dot] edu"
@@ -69,3 +73,4 @@ user_groups:
 ---
 
 Huy Vu is a PhD candidate in Computer Science at Stony Brook University. Having a great interest in Machine Learning, especially Natural Language Processing and applying it into Psychology and Social Science. That is one sweet spot between understanding machine and human. Having worked interdisciplinary with other natural and social scientists, I always believe that the more different scientific fields intersect, the more novel and exciting the findings will be. 
+Also, I love creating art through mediums like sketching, AR/VR and especially dancing: https://vuthanhhuy94.wixsite.com/creative-playground
