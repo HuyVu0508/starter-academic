@@ -72,6 +72,6 @@ user_groups:
  - Visitors
 ---
 
-I am currently workin as a PhD candidate in Computer Science at Stony Brook University. I have a great interest in Machine Learning, especially Natural Language Processing and applying it into Psychology and Social Science. That is one sweet-spot intersection between understanding machine and human. I am grateful and proud to work with my advisor - professor H. Andrew Schwartz (https://www3.cs.stonybrook.edu/~has/) in HLAB: Human Language Analysis Beings lab (http://hlab.cs.stonybrook.edu). 
+I am currently workin as a PhD candidate in Computer Science at Stony Brook University. I have a great interest in Machine Learning, especially Natural Language Processing and applying it into Psychology and Social Science. That is one sweet-spot intersection between understanding machine and human. I am grateful and proud to work with my advisor - professor H. Andrew Schwartz (https://www3.cs.stonybrook.edu/~has/)  [H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/) in HLAB: Human Language Analysis Beings lab (http://hlab.cs.stonybrook.edu). 
 Having worked interdisciplinary with other natural and social scientists, I always believe that the more different scientific fields intersect, the more novel and exciting the findings will be. 
 Also, I love creating art as hobbies through mediums like sketching, AR/VR (augmented and virtual reality) experiences and especially dancing. Check out my creative works here!: https://vuthanhhuy94.wixsite.com/creative-playground
