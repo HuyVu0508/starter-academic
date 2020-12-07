@@ -26,7 +26,7 @@ education:
   - course: PhD candidate in Computer Science
     institution: Stony Brook University
     year: 2018 - 2023 
-  - course: BS in Mathematics and Computer Science 
+  - course: BSc in Mathematics and Computer Science 
     institution: University of Science Ho Chi Minh City
     year: 2012 - 2017
 
