@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Huy Vu
+title: Huy () Vu
 
 # Is this the primary user of the site?
 superuser: true
