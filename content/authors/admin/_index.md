@@ -23,10 +23,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD candidate in Computer Science
     institution: Stony Brook University
     year: 2018 - 2023 
-  - course: MSc in Mathematics and Computer Science 
+  - course: BS in Mathematics and Computer Science 
     institution: University of Science Ho Chi Minh City
     year: 2012 - 2017
 
