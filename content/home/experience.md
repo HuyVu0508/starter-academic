@@ -19,19 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Deep Learning Engineer Intern"
-  company = "NVIDIA"
+  title = "NVIDIA"
+  company = "Deep Learning Engineer Intern"
   company_url = ""
   location = "Santa Clara, U.S."
   date_start = "2021-06-01"
   date_end = "2021-08-01"
   description = """
-  Summer 2021 internship.
-  """
+  Responsibilities include:
+
+  * Surveying literature and implementing strong models such as Distill-FiD for Open Domain Question Answering task. Working on tuning and accelerating models (running on NVIDIA's DGX A100 and Selene supercomputer) to minimize computational costs.
+  * Reduced total training time of significantly for the Distill-FiD pipeline using a variety of optimization techniques including half-precision training, parallelizing data processing, fused Adam optimizer and others. 
+"""    
 
 [[experience]]
-  title = "Applied Scientist Intern"
-  company = "Amazon Alexa AI"
+  title = "Amazon Alexa AI"
+  company = "Applied Scientist Intern"
   company_url = ""
   location = "Washington, U.S."
   date_start = "2020-06-01"
@@ -44,8 +47,8 @@ date_format = "Jan 2006"
 """    
 
 [[experience]]
-  title = "Research Assistant"
-  company = "Brookhaven National Lab"
+  title = "Brookhaven National Lab"
+  company = "Research Assistant"
   company_url = ""
   location = "New York, U.S."
   date_start = "2019-09-01"
@@ -58,8 +61,8 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = "Research Assistant Intern"
-  company = "University of Pennsylvania"
+  title = "University of Pennsylvania"
+  company = "Research Assistant Intern"
   company_url = ""
   location = "Pennsylvania, U.S."
   date_start = "2019-06-01"
@@ -73,8 +76,8 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Research Assistant"
-  company = "Ho Chi Minh City University of Science"
+  title = "Ho Chi Minh City University of Science"
+  company = "Research Assistant"
   company_url = ""
   location = "Ho Chi Minh City, Vietnam"
   date_start = "2016-08-01"
@@ -88,8 +91,8 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Business Analyst"
-  company = "Omn1Solution (Salesforce's official partner in Vietnam)"
+  title = "Omn1Solution (Salesforce's official partner in Vietnam)"
+  company = "Business Analyst"
   company_url = ""
   location = "Ho Chi Minh City, Vietnam"
   date_start = "2017-09-01"
