@@ -32,7 +32,7 @@ tags:
 featured: true
 
 links:
-url_pdf: aclanthology.org/2021.naacl-main.357/
+url_pdf: https://aclanthology.org/2021.naacl-main.357/
 url_code: ''
 url_dataset: ''
 url_poster: ''
