@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "Completion of Business Administration Course"
   url = ""
   certificate_url = ""
-  date_start = "201-10-01"
+  date_start = "2017-10-01"
   date_end = "2018-02-01"
   description = ""
   
