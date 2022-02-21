@@ -29,6 +29,16 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
+  organization = "University of Economics Ho Chi Minh City"
+  organization_url = ""
+  title = "Completion of Business Administration Course"
+  url = ""
+  certificate_url = ""
+  date_start = "201-10-01"
+  date_end = "2018-02-01"7
+  description = ""
+  
+[[item]]
   organization = "Vietnam Institute for Advanced Study in Mathematics"
   organization_url = ""
   title = "National Program for the Development of Mathematics 2013 and 2016"
@@ -66,6 +76,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2012-09-01"
   date_end = "2013-05-01"
-  description = "1st-ranked students in university’s entrance"     
+  description = "For 1st-ranked students in university’s entrance"     
 
 +++
