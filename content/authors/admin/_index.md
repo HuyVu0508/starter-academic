@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Huy (Thanh) Vu
+title: Huy Vu
 
 # Is this the primary user of the site?
 superuser: true
@@ -72,7 +72,6 @@ user_groups:
  - Researchers
  - Visitors
 ---
-
-I am currently working as a PhD candidate in Computer Science at Stony Brook University. I am grateful and proud to work with my advisor - professor [H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/) in [Human Language Analysis Beings lab (HLAB)](http://hlab.cs.stonybrook.edu). My main research interests are Machine Learning, especially Natural Language Processing and applying it into Psychology and Social Science research, which is one sweet-spot intersection between understanding machine and human. Having worked interdisciplinary with other natural and social scientists, I always believe that the more different scientific fields intersect, the more novel and exciting the findings will be. 
+I am currently working as a PhD candidate in Computer Science at Stony Brook University. I am grateful and proud to work with my advisor - professor [H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/) in [Human Language Analysis Beings lab (HLAB)](http://hlab.cs.stonybrook.edu). My main research interests are Machine Learning, especially Natural Language Processing and applying it into Psychology and Social Science research, which is one sweet-spot intersection between understanding machine and human. Having worked interdisciplinary with other natural and social scientists, I always believe that the more different scientific fields intersect, the more novel and exciting the findings will be.
 
 Also, I love creating art as hobbies through mediums like sketching, AR/VR (augmented and virtual reality) experiences and especially dancing. Check out my creative works here!: [Huy Vu's creative playground](https://vuthanhhuy94.wixsite.com/creative-playground)
