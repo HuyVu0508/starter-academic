@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   Responsibilities include:
 
 * Creating synthetic training data using Text-to-Speech pipeline to improve Automatic Speech Recognition task. The main goal is to reduce the performance gaps across age-groups, making the model perform more evenly across different demographics.
-* Reduced the performance gaps in ASR task across age-groups up to 13 percentages by: Doing literature review to looking for the right dataset to create synthetic data from. Analyzing speed and pitch features distribution on real data to make sure the generated augmented data simulate closely the real data.Reduced total training time of significantly for the Distill-FiD pipeline using a variety of optimization techniques including half-precision training, parallelizing data processing, fused Adam optimizer and others.
+* Reduced the performance gaps in ASR task across age-groups up to 13 percents by: Doing literature review to looking for the right dataset to create synthetic data from. Analyzing speed and pitch features distribution on real data to make sure the generated augmented data simulate closely the real data.Reduced total training time of significantly for the Distill-FiD pipeline using a variety of optimization techniques including half-precision training, parallelizing data processing, fused Adam optimizer and others.
 
 """
 
