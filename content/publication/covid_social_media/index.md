@@ -1,12 +1,6 @@
 ---
 title: "The where and when of COVID-19: Using ecological and Twitter-based assessments to examine impacts in a temporal and community context"
 authors:
-- admin
-- Salvatore Giorgi 
-- Jeremy Clifton
-- Niranjan Balasubramanian
-- Hansen Schwartz
-
 - Pasquini, Giancarlo 
 - Ferguson, Giselle
 - Bouklas, Isabella
