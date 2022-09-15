@@ -35,7 +35,7 @@ publication_types: ["1"]
 publication: PLOS One
 publication_short: In *PLOS One*
 
-abstract: How we perceive our surrounding world impacts how we live in and react to it. In this study, we propose LaBel (Latent Beliefs Model), an alternative to topic modeling that uncovers latent semantic dimensions from transformer-based embeddings and enables their representation as generated phrases rather than word lists. We use LaBel to explore the major beliefs that humans have about the world and other prevalent domains, such as education or parenting. Although human beliefs have been explored in previous works, our proposed model helps automate the exploring process to rely less on human experts, saving time and manual efforts, especially when working with large corpus data. Our approach to LaBel uses a novel modification of autoregressive transformers to effectively generate texts conditioning on a vector input format. Differently from topic modeling methods, our generated texts (e.g. “the world is truly in your favor”) are discourse segments rather than word lists, which helps convey semantics in a more natural manner with full context. We evaluate LaBel dimensions using both an intrusion task as well as a classification task of identifying categories of major beliefs in tweets finding greater accuracies than popular topic modeling approaches.
+abstract: In March 2020, residents of the Bronx, New York experienced one of the first significant community COVID-19 outbreaks in the United States. Focusing on intensive longitudinal data from 78 Bronx-based older adults, we used a multi-method approach to (1) examine 2019 to early pandemic (February-June 2020) changes in momentary psychological well-being of Einstein Aging Study (EAS) participants and (2) to contextualize these changes with community distress scores collected from public Twitter posts posted in Bronx County. We found increases in mean loneliness from 2019 to 2020; and participants that were higher in neuroticism had greater increases in thought unpleasantness and feeling depressed. Twitter-based Bronx community scores of anxiety, depressivity, and negatively-valenced affect showed elevated levels in 2020 weeks relative to 2019. Integration of EAS participant data and community data showed week-to-week fluctuations across 2019 and 2020. Results highlight how community-level data can characterize a rapidly changing environment to supplement individual-level data at no additional burden to individual participants.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -44,7 +44,7 @@ tags:
 featured: true
 
 links:
-url_pdf: https://www.aclweb.org/anthology/2020.findings-emnlp.137/
+url_pdf: https://doi.org/10.1371/journal.pone.0264280
 url_code: ''
 url_dataset: ''
 url_poster: ''
